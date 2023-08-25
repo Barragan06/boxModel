@@ -13,6 +13,8 @@ footer{
     height: 120px;
 }
 section {
+    display: flex;
+    flex-direction: row;
     background-color: green;
     overflow: hidden;
 }
